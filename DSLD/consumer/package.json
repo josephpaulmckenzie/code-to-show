@@ -1,0 +1,16 @@
+{
+  "name": "scheduler-lambda",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jshint ."
+  },
+  "dependencies": {
+    "async": "2.0.1",
+    "aws-sdk": "^2.247.1"
+  },
+  "devDependencies": {
+    "jshint": "2.9.1"
+  }
+}
