@@ -1,0 +1,15 @@
+{
+  "name": "cloudwatch-event-triggered",
+  "version": "1.0.0",
+  "description": "Sends a push notification when a cloudwatch alarm is triggered",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph Mckenzie <joseph.p.mckenzie84@gmail.com> (https://www.github.com/josephpaulmckenzie)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "pg-promise": "^8.6.4"
+  }
+}
